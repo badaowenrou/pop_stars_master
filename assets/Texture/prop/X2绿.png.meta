@@ -1,13 +1,18 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.5",
   "uuid": "cfd70cd1-110e-4a91-88de-50f5acade1d6",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 94,
+  "height": 94,
+  "platformSettings": {},
   "subMetas": {
     "X2绿": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "b221d77f-7545-47fe-bad0-1e540b5f82b6",
       "rawTextureUuid": "cfd70cd1-110e-4a91-88de-50f5acade1d6",
       "trimType": "auto",

@@ -1,13 +1,18 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.5",
   "uuid": "ead00d74-812b-47eb-a068-de62e75813ec",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 94,
+  "height": 94,
+  "platformSettings": {},
   "subMetas": {
     "炸弹-拷贝-4": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "f751ff59-8e3c-404f-acb8-510e0b415b76",
       "rawTextureUuid": "ead00d74-812b-47eb-a068-de62e75813ec",
       "trimType": "auto",

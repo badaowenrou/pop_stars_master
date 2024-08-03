@@ -1,13 +1,18 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.5",
   "uuid": "4b50b247-0cef-462b-9d8c-7e704bc6f3ca",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 512,
+  "platformSettings": {},
   "subMetas": {
     "sanxiao4_tex": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "1145c4db-7b1e-47e3-8b54-3958c72caae8",
       "rawTextureUuid": "4b50b247-0cef-462b-9d8c-7e704bc6f3ca",
       "trimType": "auto",
